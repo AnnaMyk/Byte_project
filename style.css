@@ -169,9 +169,8 @@ margin: 0 auto;
 .commerce_text{
     font-size: 15px;
     line-height: 22px;
-    margin: 316px;
+    max-width: 316px;
 }
-
 
 .footer{
     background: #20003C;
